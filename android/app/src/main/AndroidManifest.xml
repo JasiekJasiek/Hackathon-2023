@@ -35,6 +35,6 @@
             android:value="2" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAdpkz1p0armDMcvya9N3nNuOhZ3RTPHuE" />
+            android:value="Google API key here" />
     </application>
 </manifest>
